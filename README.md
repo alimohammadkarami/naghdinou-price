@@ -91,5 +91,4 @@ Respones = "۱۵۱٬۰۰۰ میلیون تومان"
 ##
 
 its my first exprience of writing a readme file 
-i hope i hadend have 
 I hope it doesn’t have any  grammar mistakes
